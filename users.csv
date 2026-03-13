@@ -1,0 +1,16 @@
+id,username,password,role,name,email,phone,onurix_client,onurix_key,organizacion_id
+1,admin,$2y$10$dFui605dJYnc/w5f/rICI.610e4Mkad4ABH1XG3Noa2hkJ8BlQ/0C,admin,Daniel,,,7389,baf0076e7d995fc544c21cea4fdf898ce00612f268dc5f38c3565,1
+3,213123,$2y$10$nOvPvlOY.vWmDU204tM/YeO7fmokJE.vHn492xdDRaUMGqegfPMw6,lider,"DANIEL ANDRES ",,,,,1
+4,1001,$2y$10$uhPSGFbKEjG7BXqi.hum9eEESJeMOY5zQ9IcV6eNsTFRuyezCK92W,lider,"Carlos Perez",,,,,1
+5,1002,$2y$10$9sMcQFePdDFcXL19idtmY.Mc15zjCVlWKBBDopxXv/1xz79K.E1sK,lider,"Maria Rodriguez",,,,,1
+6,1003,$2y$10$b6RY101HYXFW2/mGSJeLG.byMXemy8VeB9sZsJIPLiIMP/bBCygWS,lider,"Juan Gomez",,,,,1
+7,1004,$2y$10$2VDr0mQ7pGie7ddnWN3zZuZvyplC5EGiwCK.j8re.rZzPkZNGvTwy,lider,"Ana Martinez",,,,,1
+8,1005,$2y$10$JxKvKMWbxtXUikxgGoluK.gqfn0Ml75ntqhJk43lnJOKj6WB/XEE6,lider,"Luis Diaz",,,,,1
+9,dios,$2y$10$WTdsC4d7625bjL3HjpRMleE.0SD9hyiULs0ld/s4PiIqGcz/3BVAC,superadmin,"Super Admin",,,,,
+10,admin1,$2y$10$z2lJs.ghSbUwKQcwuvALeuvDvb.RHsUYOIxuE94GyLZuwHIMP2W06,admin,"Elias jose",,,,,2
+11,admin2,$2y$10$T0bggkTGYkbE8PKZzcwxVePoCpRUy/PzuYCI1fKmpXnLjxDwmsCc6,admin,"Elias Arturo",,,,,3
+12,admin3,$2y$10$nVfUnJAtRDO4CXmSB3e85e8sTzaqTcfe3cDuygqnj9hO/i9Lz9wD2,admin,admin3,,,,,4
+13,10009,$2y$10$fD1ANxBHM.loT5Qy46gZaeESq8TUSEfw7gb5bhjEY0AtyiRcdRB/u,lider,Carlos,,,,,1
+14,3123,$2y$10$z3yhalaEUzidEzwN26nPre8A5NxkQ9Ax3YO07i77wsWkUTOoZZmfS,lider,danilo,,,,,1
+15,9admin,$2y$10$RhmqPEDAkWlWkcp7GSnNQO2iSMBEYxItQ0UQpdokuDkmYE3qybia2,admin,Rafael,,,,,5
+16,dios2,$2y$10$dFui605dJYnc/w5f/rICI.610e4Mkad4ABH1XG3Noa2hkJ8BlQ/0C,superadmin,"Super Admin Dios 2",,,,,

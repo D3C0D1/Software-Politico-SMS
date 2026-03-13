@@ -1,0 +1,1323 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"
+    xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+        /* Estilos para Excel */
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 11pt;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            border: 1px solid #000;
+        }
+
+        th {
+            background-color: #E30613;
+            color: #FFFFFF;
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        td {
+            border: 1px solid #000;
+            padding: 5px;
+            vertical-align: middle;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .text-left {
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <!-- Encabezados Limpios -->
+                <th>Nombres y Apellidos</th>
+                <th>Cédula</th>
+                <th>Lugar Votación</th>
+                <th>Mesa</th>
+                <th>Celular</th>
+                                <th>Estado Voto</th>
+                                <th>Link Confirmación</th>
+            </tr>
+        </thead>
+        <tbody>
+                        <tr>
+                <td class="text-left">
+                    ADOLFO MANUEL ALVAREZ JARABA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    10884937                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    4                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=66&token=0594f97ff82e98ac5fe9288cc4bfff97">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=66&token=0594f97ff82e98ac5fe9288cc4bfff97                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    ADRIANA LUCIA GONZALEZ SERMEÑO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100622781                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    21                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=67&token=6a0570bf17cac66b9c6d9603cbb06d4d">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=67&token=6a0570bf17cac66b9c6d9603cbb06d4d                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    ANA MARIA MERCADO ALVAREZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100629132                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    27                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=68&token=bb273c2425934596023fdee207f91c94">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=68&token=bb273c2425934596023fdee207f91c94                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    ANDRY MARCELA GONZALEZ SERMEÑO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100622782                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    21                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=69&token=3c61e3d0f54b5dc6292f414932e416e5">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=69&token=3c61e3d0f54b5dc6292f414932e416e5                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    ARLAN JOSE CHAMORRO MADERA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    92556115                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=70&token=83e08cfd2076c028a01f49e3a3b768a2">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=70&token=83e08cfd2076c028a01f49e3a3b768a2                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    AURA JOSEFA DOMINGUEZ CASTRO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    34966421                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=71&token=e3f567c9d22d4aa7787c338eca30ff79">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=71&token=e3f567c9d22d4aa7787c338eca30ff79                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    CARLOS ALEJANDRO ALVAREZ MERCADO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3913592                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=72&token=68e71530c4a9e3333d18dde41a216d03">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=72&token=68e71530c4a9e3333d18dde41a216d03                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    CARLOS CESAR SALGADO LOPEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3912449                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=73&token=6ac9168787dbb9d0b3ef30862b8ccf97">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=73&token=6ac9168787dbb9d0b3ef30862b8ccf97                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    CARMEN JUDITH LOPEZ MARTINEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100622407                </td>
+                <td class="text-left">
+                    Sabanas De Cali                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    2                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=74&token=ef185532552336eb048632a03d082471">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=74&token=ef185532552336eb048632a03d082471                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    CESAR ENRIQUE VILLAMIZAR GUZMAN                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1103108635                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    30                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=75&token=0a97777e55bc1b68ddd4466441e58396">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=75&token=0a97777e55bc1b68ddd4466441e58396                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    CRISTIAN ANDRES PEREZ MARQUEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1103121977                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    31                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=76&token=24a8d2527efd4c12a5bb7f09b21b84d0">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=76&token=24a8d2527efd4c12a5bb7f09b21b84d0                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    DANIEL EDUARDO SALGADO RIVERA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100626764                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    24                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=77&token=46a5a0f731c36afb47c92595f58fca36">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=77&token=46a5a0f731c36afb47c92595f58fca36                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    ELKIN RAFAEL GUTIERREZ GONZALEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1103098466                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    30                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=78&token=687cd9b4fdb8b872b6db603abd99460b">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=78&token=687cd9b4fdb8b872b6db603abd99460b                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    ELVIA KARINA  LARA JIMENEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100626894                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    25                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=79&token=c68c7528ce91d5c4106405fd6b26a34c">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=79&token=c68c7528ce91d5c4106405fd6b26a34c                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    EMANUEL ENRIQUE MEZA QUIROZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100630300                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    28                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=80&token=7bc2d714ee05924d2f6f646d89dbcfb3">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=80&token=7bc2d714ee05924d2f6f646d89dbcfb3                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    EMIRO ENRIQUE SIERRA CORENA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1126253913                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    32                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=81&token=e9c33ad0292a0e7b8e3656b28bbaa0d0">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=81&token=e9c33ad0292a0e7b8e3656b28bbaa0d0                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    EMIRO RAFAEL BALETA ALBOR                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    9313759                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=82&token=b00224d695c853245d59be6534973a00">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=82&token=b00224d695c853245d59be6534973a00                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    FELIPE MANUEL MARQUEZ GALINDO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    92153850                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    14                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=83&token=730373fdd74b6a8ab19108b7988b0c05">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=83&token=730373fdd74b6a8ab19108b7988b0c05                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    FRANGEL DE JESUS MERCADO MEZA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3852132                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=84&token=4ac36b07c2e3b83f6116ef6ebd5863cb">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=84&token=4ac36b07c2e3b83f6116ef6ebd5863cb                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    GILBERTO ANTONIO ALVAREZ MERCADO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    18776297                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=85&token=ae563266c60d8cf3a5f8d24e6b66409c">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=85&token=ae563266c60d8cf3a5f8d24e6b66409c                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    INGRID PAOLA GONZALEZ SERMEÑO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100628332                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    26                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=86&token=74bf9fb83eafeee81819b227d30125b3">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=86&token=74bf9fb83eafeee81819b227d30125b3                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JESUS ENRIQUE REYES PALENCIA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100628534                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    27                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=87&token=0081c38be22b492ca2e40c53075faded">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=87&token=0081c38be22b492ca2e40c53075faded                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JOSE DE JESUS BALASNOA BANQUEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100629638                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    28                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=88&token=a995c9b4f12e91b6703be207674d3981">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=88&token=a995c9b4f12e91b6703be207674d3981                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JOSE DEHARLES DOMINGUEZ CASTRO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    6863445                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=89&token=46a996bfa8cc82dc00a47dd9c4f09247">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=89&token=46a996bfa8cc82dc00a47dd9c4f09247                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JOSE GREGORIO ANACONA ALZATE                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100626844                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    25                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=90&token=34458fb314ee622d4f13dac1c6a07661">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=90&token=34458fb314ee622d4f13dac1c6a07661                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JUAN CARLOS GUZMAN MADRID                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3913500                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=91&token=7a04ad2a63fc9fffa9bf84ac26d8f9bc">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=91&token=7a04ad2a63fc9fffa9bf84ac26d8f9bc                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JUAN CARLOS GUZMAN OLMOS                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100622738                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    21                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=92&token=e509bb0c9d54fef58b08350546610ff1">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=92&token=e509bb0c9d54fef58b08350546610ff1                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JUAN DE JESUS SALGADO BLANCO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100622457                </td>
+                <td class="text-left">
+                    Sabanas De Cali                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    2                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=93&token=6bcb7bff64db0e2a40721380112d7a34">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=93&token=6bcb7bff64db0e2a40721380112d7a34                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JULIETH MARIA PEREZ DIAZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100629687                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    27                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=94&token=924ce4b3576b7facac83a188441c4e2d">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=94&token=924ce4b3576b7facac83a188441c4e2d                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    JURY CANDELARIA PALACIO SALGADO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1103216942                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    31                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=95&token=654c6bfbaa29b421c1f8083d0efcf891">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=95&token=654c6bfbaa29b421c1f8083d0efcf891                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    KARELIS DE LA ROSA CORONADO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1102822058                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    29                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=96&token=c109bd5fbd9c3ef86186b587ca1dbe8c">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=96&token=c109bd5fbd9c3ef86186b587ca1dbe8c                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    KARINA DE LA ROSA CORONADO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1102822057                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    29                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=97&token=94e07f13e3beaadf14298109ff3613ff">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=97&token=94e07f13e3beaadf14298109ff3613ff                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    KELLY JOSE ARROYO MEZA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100625025                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    23                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=98&token=e9ec04b274f802376c9082171069e095">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=98&token=e9ec04b274f802376c9082171069e095                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    KEVIN EDUARDO ARROYO MEZA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100628406                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    27                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=99&token=7d7d35eb8094a2be15e7592c4a18ff17">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=99&token=7d7d35eb8094a2be15e7592c4a18ff17                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    LEANDRO GUZMAN GARCIA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1005434715                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    16                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=100&token=ea39cf7eb46303466ac134b2403933ab">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=100&token=ea39cf7eb46303466ac134b2403933ab                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    LEONARDO DE JESUS CORRALES GOMEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    92153865                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    14                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=101&token=9c317b12361550d20fbaec97340cf2de">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=101&token=9c317b12361550d20fbaec97340cf2de                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    LUIS FERNANDO PEINADO DOMINGUEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    92153750                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=102&token=9bb73c420dbebcaeb8774744344ad0cd">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=102&token=9bb73c420dbebcaeb8774744344ad0cd                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    LUZ MERCEDES DIAZ MARQUEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    23174251                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    9                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=103&token=8c963c3076a9c5c2cadbbd4bbbea63a8">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=103&token=8c963c3076a9c5c2cadbbd4bbbea63a8                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    MARIELA ISABEL SERMENO PEÑATE                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    23012497                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    8                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=104&token=686b87cff6150bed9bb4fab8627af97d">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=104&token=686b87cff6150bed9bb4fab8627af97d                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    MARUJA ISABEL ALVAREZ DE BALETA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    42205974                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=105&token=db34fb3dc33569dbdeb52e750d9e0ea5">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=105&token=db34fb3dc33569dbdeb52e750d9e0ea5                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    MELBA DOMINGUEZ DE CUAO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    22374793                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    5                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=106&token=07fdce8946af216b3ae6e9202d554923">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=106&token=07fdce8946af216b3ae6e9202d554923                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    MINEL RAFAEL GUZMAN LOPEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3913083                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=107&token=b6dd09a6df73f356ea65e654ad926634">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=107&token=b6dd09a6df73f356ea65e654ad926634                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    NATALIA BELEÑO MARTINEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1005574829                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    18                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=108&token=fe66d883ddaa94cf59380f7c7b05c3ad">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=108&token=fe66d883ddaa94cf59380f7c7b05c3ad                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    NELLY CARMEN RIVERA GOMEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    32950054                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    10                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=109&token=96a7cae47c21eae4b943b520cdd5784d">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=109&token=96a7cae47c21eae4b943b520cdd5784d                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    NELLY DEL CARMEN RUIZ SALCEDO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100622977                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    22                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=110&token=bab30484f61aea40c6e70b137e9c1df3">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=110&token=bab30484f61aea40c6e70b137e9c1df3                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    NURIS CAROLINA BALETA ALVAREZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    23012646                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=111&token=d249a5f856600db526240bfe4e87032d">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=111&token=d249a5f856600db526240bfe4e87032d                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    OMAR ENRIQUE RESTREPO GOMEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    92553190                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=112&token=fb1a0afb97e4dc527b419b5a25230080">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=112&token=fb1a0afb97e4dc527b419b5a25230080                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    PAOLA PATRICIA TAMARA MARQUEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1102832527                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    30                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=113&token=1da9d8a9c0ebad45f7ceae229d2f8579">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=113&token=1da9d8a9c0ebad45f7ceae229d2f8579                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    RAMIRO JOSE YEPES MARTINEZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100626141                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    24                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=114&token=222ed629f4a70ed9776d8406e7318bd8">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=114&token=222ed629f4a70ed9776d8406e7318bd8                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    RAMON DAVID CANCHILA CARDENAS                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1103103227                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=115&token=fa54eb906419b0e48d7abd2374a40852">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=115&token=fa54eb906419b0e48d7abd2374a40852                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    ROGER ANDRES QUIROZ PEREZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3839087                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=116&token=2f1aa8e8e9b3084e2c0f33b57f7cf679">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=116&token=2f1aa8e8e9b3084e2c0f33b57f7cf679                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    SINDI PATRICIA GONZALEZ SERMEÑO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100630325                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    28                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=117&token=725137aefa0b145dd934c36103daa0ae">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=117&token=725137aefa0b145dd934c36103daa0ae                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    TARCILA DE LA CONCEPCION MEZA GUZMAN                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    23011920                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    7                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=118&token=d6eb806ed2fd013589709df5f181b55d">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=118&token=d6eb806ed2fd013589709df5f181b55d                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    VICTOR ANTONIO GONZALEZ PEREZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    92554914                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    15                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=119&token=75c630e221eee7acad3869433f22992f">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=119&token=75c630e221eee7acad3869433f22992f                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    VIVIANA REYES PALENCIA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1103096326                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    30                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=120&token=f2f2685c7e44e57e000df28c351bd350">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=120&token=f2f2685c7e44e57e000df28c351bd350                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    WENDI JOHANNA GONZALEZ SERMEÑO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100629827                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    27                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=121&token=6bf7439e1fbe9fcdf3aa7db975f70052">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=121&token=6bf7439e1fbe9fcdf3aa7db975f70052                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    YAZMINA DEL CARMEN PEREZ PEREZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1073971612                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    20                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=122&token=3e4a6eb035fd5d65d7284e8c4a78389a">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=122&token=3e4a6eb035fd5d65d7284e8c4a78389a                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    YEIR ANTONIO GONZALEZ CERMEÑO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100627323                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    26                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=123&token=39c0b34a51d6eb06d99c54d20bb1e86a">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=123&token=39c0b34a51d6eb06d99c54d20bb1e86a                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    YERALDINE LIZETH BALETA ALVAREZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100624980                </td>
+                <td class="text-left">
+                    El Rincon                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=124&token=b9e8c1bfa4b26fbec385a78303d127cb">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=124&token=b9e8c1bfa4b26fbec385a78303d127cb                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    YULIANA GUZMAN OLMOS                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100630496                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    28                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3101234567                </td>
+
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=125&token=aa950738d27aeed1513073d6146676b1">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=125&token=aa950738d27aeed1513073d6146676b1                    </a></td>
+            </tr>
+                    </tbody>
+    </table>
+</body>
+
+</html>

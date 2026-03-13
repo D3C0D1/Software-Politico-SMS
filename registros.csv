@@ -1,0 +1,67 @@
+id,nombres_apellidos,cedula,lugar_votacion,mesa,celular,created_at,estado_voto,tipo,user_id,sms_inscripcion,sms_citacion,sms_confirmacion,ya_voto,organizacion_id
+1,"raul ",1007494559,caucasia,19,3184483187,"2026-02-09 05:21:05",pendiente,lider,0,0,0,0,,1
+2,"DANIEL ANDRES ",3184483187,DANIQUES,18,3184483187,"2026-02-09 05:21:23",pendiente,lider,0,0,0,0,,1
+3,"DANIEL ANDRES ",64866912,mesa,12,3184483187,"2026-02-09 06:52:12",pendiente,votante,1,1,0,0,,1
+4,camila,648992,"mesa ja",12,3184483187,"2026-02-09 07:23:49",voto,votante,1,1,0,0,1,1
+5,"DANIEL ANDRES ",213123,asdf,asdf,3123123211,"2026-02-09 17:00:34",pendiente,lider,1,0,0,0,0,1
+6,"raul ",1241234,dsafasd,234,1234123423,"2026-02-09 17:01:46",pendiente,votante,3,0,0,0,0,1
+7,"Carlos Perez",1001,"Sede Principal",1,3001234567,"2026-02-09 17:16:13",pendiente,lider,1,0,0,0,0,1
+8,"Maria Rodriguez",1002,"Sede Principal",1,3109876543,"2026-02-09 17:16:13",pendiente,lider,1,0,0,0,0,1
+9,"Juan Gomez",1003,"Sede Principal",1,3205556677,"2026-02-09 17:16:13",pendiente,lider,1,0,0,0,0,1
+10,"Ana Martinez",1004,"Sede Principal",1,3151112233,"2026-02-09 17:16:13",pendiente,lider,1,0,0,0,0,1
+11,"Luis Diaz",1005,"Sede Principal",1,3019998877,"2026-02-09 17:16:13",pendiente,lider,1,0,0,0,0,1
+12,"Pedro Ortiz",53312986,"Escuela La Esperanza",14,3553981926,"2026-02-09 17:16:13",pendiente,votante,4,0,0,0,0,1
+13,"Diego Ramirez",24887634,"Colegio San Jose",11,3644914678,"2026-02-08 17:16:13",pendiente,votante,6,0,0,0,0,1
+14,"Valentina Silva",24289379,"Salon Comunal Centro",10,3597516368,"2026-02-08 17:16:13",pendiente,votante,4,0,0,0,0,1
+15,"Lucia Garcia",93689706,"Colegio San Jose",4,3229796180,"2026-02-07 17:16:13",pendiente,votante,8,0,0,0,0,1
+16,"Andres Ramirez",67817696,"Escuela La Esperanza",12,3557474315,"2026-02-09 17:16:13",voto,votante,6,0,0,0,1,1
+17,"Valentina Garcia",38493538,"Coliseo Municipal",16,3306394811,"2026-02-09 17:16:13",pendiente,votante,1,0,0,0,0,1
+18,"Valentina Rojas",84598509,"Escuela La Esperanza",19,3756256212,"2026-02-06 17:16:13",voto,votante,4,0,0,0,1,1
+19,"Diego Torres",88437012,"Escuela La Esperanza",6,3108807772,"2026-02-04 17:16:13",pendiente,votante,6,0,0,0,0,1
+20,"Marta Ortiz",75325364,"Coliseo Municipal",5,3583697819,"2026-02-02 17:16:13",pendiente,votante,4,0,0,0,0,1
+21,"Andres Jimenez",89938072,"Colegio San Jose",18,3327443614,"2026-02-09 17:16:13",pendiente,votante,7,0,0,0,0,1
+22,"Fernando Muñoz",70833885,"Salon Comunal Centro",14,3192740156,"2026-02-05 17:16:13",pendiente,votante,7,0,0,0,0,1
+23,"Jose Lopez",78693852,"Colegio San Jose",10,3664334009,"2026-02-05 17:16:14",pendiente,votante,5,0,0,0,0,1
+24,"Camila Silva",99662396,"Escuela La Esperanza",8,3891170230,"2026-02-09 17:16:14",pendiente,votante,5,0,0,0,0,1
+25,"Jorge Jimenez",27450041,"Coliseo Municipal",8,3659305731,"2026-02-04 17:16:14",voto,votante,8,0,0,0,1,1
+26,"Camila Jimenez",89843196,"Colegio San Jose",3,3068358864,"2026-02-07 17:16:14",voto,votante,8,0,0,0,1,1
+27,"Diego Garcia",96621997,"Escuela La Esperanza",17,3166951081,"2026-02-04 17:16:14",pendiente,votante,1,0,0,0,0,1
+28,"Valentina Castro",27750143,"Colegio San Jose",19,3721877906,"2026-02-07 17:16:14",voto,votante,4,0,0,0,1,1
+29,"Jose Moreno",63670291,"Escuela La Esperanza",20,3613357097,"2026-02-06 17:16:14",voto,votante,1,0,0,0,1,1
+30,"Jorge Ramirez",70467953,"Salon Comunal Centro",11,3191098748,"2026-02-07 17:16:14",pendiente,votante,8,0,0,0,0,1
+31,"Marta Ramirez",55547089,"Salon Comunal Centro",6,3285395983,"2026-02-02 17:16:14",voto,votante,7,0,0,0,1,1
+32,"Diego Ortiz",23906776,"Salon Comunal Centro",6,3089753710,"2026-02-09 17:16:14",pendiente,votante,5,0,0,0,0,1
+33,"Andres Lopez",68743007,"Colegio San Jose",6,3585022214,"2026-02-06 17:16:14",voto,votante,6,0,0,0,1,1
+34,"Fernando Muñoz",53982038,"Colegio San Jose",3,3108945405,"2026-02-09 17:16:14",pendiente,votante,7,0,0,0,0,1
+35,"Marta Ramirez",71538849,"Coliseo Municipal",12,3577128623,"2026-02-03 17:16:14",pendiente,votante,5,0,0,0,0,1
+36,"Pedro Lopez",15360134,"Salon Comunal Centro",15,3102878575,"2026-02-02 17:16:14",pendiente,votante,4,0,0,0,0,1
+37,"Jose Moreno",87440276,"Escuela La Esperanza",12,3514793482,"2026-02-07 17:16:14",voto,votante,1,0,0,0,1,1
+38,"Pedro Moreno",82553021,"Escuela La Esperanza",7,3163028068,"2026-02-02 17:16:14",pendiente,votante,1,0,0,0,0,1
+39,"Marta Lopez",87342731,"Coliseo Municipal",16,3351214773,"2026-02-05 17:16:14",voto,votante,1,0,0,0,1,1
+40,"Jose Silva",46210878,"Escuela La Esperanza",7,3132470622,"2026-02-04 17:16:14",pendiente,votante,8,0,0,0,0,1
+41,"Camila Moreno",26131623,"Coliseo Municipal",1,3761276657,"2026-02-09 17:16:14",pendiente,votante,5,0,0,0,0,1
+42,"Andres Rojas",50242663,"Colegio San Jose",2,3137361265,"2026-02-02 17:16:14",voto,votante,1,0,0,0,1,1
+43,"Fernando Castro",43096347,"Colegio San Jose",19,3751779957,"2026-02-06 17:16:14",voto,votante,8,0,0,0,1,1
+44,"Camila Ortiz",44778815,"Salon Comunal Centro",2,3319697636,"2026-02-07 17:16:14",voto,votante,5,0,0,0,1,1
+45,"Andres Castro",56055884,"Salon Comunal Centro",8,3463224282,"2026-02-04 17:16:14",voto,votante,4,0,0,0,1,1
+46,"Valentina Castro",93348093,"Salon Comunal Centro",7,3685940912,"2026-02-07 17:16:14",pendiente,votante,6,0,0,0,0,1
+47,"Lucia Garcia",35459225,"Coliseo Municipal",6,3933693021,"2026-02-04 17:16:14",pendiente,votante,6,0,0,0,0,1
+48,"Camila Ortiz",65663048,"Salon Comunal Centro",4,3066988280,"2026-02-06 17:16:14",voto,votante,1,0,0,0,1,1
+49,"Sofia Silva",15718597,"Colegio San Jose",18,3385935895,"2026-02-03 17:16:14",pendiente,votante,4,0,0,0,0,1
+50,"Fernando Ortiz",98783499,"Escuela La Esperanza",13,3448079334,"2026-02-08 17:16:14",voto,votante,1,0,0,0,1,1
+51,"Fernando Muñoz",42491651,"Salon Comunal Centro",5,3341209573,"2026-02-09 17:16:14",pendiente,votante,1,0,0,0,0,1
+52,"Diego Rojas",74490003,"Escuela La Esperanza",7,3201067674,"2026-02-04 17:16:14",voto,votante,8,0,0,0,1,1
+53,"Ricardo Lopez",11677865,"Colegio San Jose",12,3553608146,"2026-02-03 17:16:14",voto,votante,8,0,0,0,1,1
+54,"Jorge Garcia",41802497,"Coliseo Municipal",17,3511970932,"2026-02-04 17:16:14",pendiente,votante,7,0,0,0,0,1
+55,"Camila Rojas",39564361,"Salon Comunal Centro",13,3824890524,"2026-02-04 17:16:14",pendiente,votante,8,0,0,0,0,1
+56,"Pedro Ortiz",11681656,"Salon Comunal Centro",11,3973587528,"2026-02-02 17:16:14",pendiente,votante,4,0,0,0,0,1
+57,"Pedro Ramirez",19077394,"Escuela La Esperanza",2,3428520098,"2026-02-08 17:16:14",pendiente,votante,7,0,0,0,0,1
+58,"Ricardo Torres",83146883,"Coliseo Municipal",3,3552841538,"2026-02-03 17:16:14",pendiente,votante,7,0,0,0,0,1
+59,"Jose Moreno",42827445,"Escuela La Esperanza",19,3134999633,"2026-02-03 17:16:14",voto,votante,7,0,0,0,1,1
+60,"Marta Jimenez",18978450,"Colegio San Jose",6,3231507779,"2026-02-09 17:16:14",voto,votante,1,0,0,0,1,1
+61,"Jose Torres",80468517,"Salon Comunal Centro",10,3408801971,"2026-02-08 17:16:14",voto,votante,4,0,0,0,1,1
+62,frank,3123123,"mesa 14",13,3012644160,"2026-02-09 18:41:49",pendiente,votante,1,1,0,0,0,1
+63,frank,123,caucasia,14,3012644160,"2026-02-09 18:42:41",pendiente,votante,1,1,0,0,0,1
+67,"DANIEL ANDRES",1231,123,123,3184483187,"2026-02-09 21:44:36",pendiente,votante,1,1,0,0,0,1
+68,Carlos,10009,"mesa 14",12,3184483187,"2026-02-11 15:50:30",pendiente,lider,12,0,0,0,0,1
+69,danilo,3123,dasd,12,3123123312,"2026-02-11 16:48:04",pendiente,lider,5,0,0,0,0,1

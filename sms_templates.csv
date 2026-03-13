@@ -1,0 +1,4 @@
+id,name,label,content,created_at,updated_at
+1,inscripcion,"SMS de Inscripción","Hola! Gracias por registrarte en nuestra campaña. Contamos con tu apoyo para el cambio.","2026-02-09 06:30:08","2026-02-09 06:30:08"
+2,citacion,"SMS de Citación","Recordatorio: Te esperamos el día de las elecciones. Tu voto es importante para el futuro de nuestra comunidad.","2026-02-09 06:30:08","2026-02-09 06:30:08"
+3,confirmacion,"SMS de Confirmación de Votación","Gracias por ejercer tu derecho al voto! Tu participación hace la diferencia. Confirma aquí: {LINK_CONFIRMACION}","2026-02-09 06:30:08","2026-02-09 07:09:52"

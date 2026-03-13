@@ -1,0 +1,202 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel"
+    xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+        /* Estilos para Excel */
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 11pt;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            border: 1px solid #000;
+        }
+
+        th {
+            background-color: #E30613;
+            color: #FFFFFF;
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        td {
+            border: 1px solid #000;
+            padding: 5px;
+            vertical-align: middle;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .text-left {
+            text-align: left;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <!-- Encabezados Limpios -->
+                <th>Nombres y Apellidos</th>
+                <th>Cédula</th>
+                <th>Lugar Votación</th>
+                <th>Mesa</th>
+                <th>Celular</th>
+                                <th>Total Votantes</th>
+                                <th>Estado Voto</th>
+                                <th>Link Confirmación</th>
+            </tr>
+        </thead>
+        <tbody>
+                        <tr>
+                <td class="text-left">
+                    MOISES                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    123456789                </td>
+                <td class="text-left">
+                    Cabecera Municipal                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    8                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3000000000                </td>
+
+                                <td class="text-center">
+                    20                </td>
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=221&token=b666649e54e08e358a300ce300585103">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=221&token=b666649e54e08e358a300ce300585103                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    S - ROBERTO SALCEDO PUÑA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1100629144                </td>
+                <td class="text-left">
+                    CABECERA MUNICIPAL MORROA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    10                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3043651516                </td>
+
+                                <td class="text-center">
+                    25                </td>
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=169&token=f57c03417e03565e1dc7b52fa204af11">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=169&token=f57c03417e03565e1dc7b52fa204af11                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    V - MARIA MARTINEZ ROYER                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1103110144                </td>
+                <td class="text-left">
+                    CABECERA MUNICIPAL MORROA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    31                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3145686309                </td>
+
+                                <td class="text-center">
+                    9                </td>
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=159&token=fdbe44b79335b7655b14e120ea7bf826">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=159&token=fdbe44b79335b7655b14e120ea7bf826                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    V - BRENDA MEZA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3202764771                </td>
+                <td class="text-left">
+                    NO APLICA                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    00                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3202764771                </td>
+
+                                <td class="text-center">
+                    21                </td>
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=137&token=421b41c2fd43491e152b39474b39c664">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=137&token=421b41c2fd43491e152b39474b39c664                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    S - NIDIAN DEL CARMEN PEREZ PEREZ                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    64742422                </td>
+                <td class="text-left">
+                    COROZAL                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3132375212                </td>
+
+                                <td class="text-center">
+                    8                </td>
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=126&token=88055cbefa1aa89aafea4e7d0713fa26">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=126&token=88055cbefa1aa89aafea4e7d0713fa26                    </a></td>
+            </tr>
+                        <tr>
+                <td class="text-left">
+                    LUIS FERNANDO PEINADO DOMINGUEZ - CASILOCO                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    92153750                </td>
+                <td class="text-left">
+                    EL RINCON                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    1                </td>
+                <td class="text-center" style="mso-number-format:'@'">
+                    3042058585                </td>
+
+                                <td class="text-center">
+                    60                </td>
+                
+                <td class="text-center"
+                    style="background-color: #fff3cd">
+                    Pendiente                </td>
+
+                
+                <td><a href="http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=54&token=afae0f733fb5b7dbe03cb7e457622a92">
+                        http://localhost/Politicos/Liberal-Multiusuario/confirmar_voto.php?id=54&token=afae0f733fb5b7dbe03cb7e457622a92                    </a></td>
+            </tr>
+                    </tbody>
+    </table>
+</body>
+
+</html>

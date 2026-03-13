@@ -1,0 +1,83 @@
+=== AUDITORÍA DE INTEGRIDAD DE DATOS (MULTITENANCY) ===
+Fecha: 2026-02-18 04:02:12
+
+1. VERIFICANDO DUPLICADOS ENTRE ORGANIZACIONES (CÉDULA)...
+[OK] No se encontraron cédulas duplicadas entre organizaciones diferentes.
+
+2. VERIFICANDO CONSISTENCIA ORGANIZACIÓN: REGISTRO vs LÍDER...
+[OK] Todos los registros pertenecen a la misma organización que su líder asignado.
+
+3. VERIFICANDO USUARIOS SIN ORGANIZACIÓN VÁLIDA...
+[ALERTA] Usuarios sin organización válida:
+ - User dios (ID 1) -> Org: NULL
+
+4. VERIFICANDO REGISTROS SIN ORGANIZACIÓN...
+[OK] Todos los registros tienen organización asignada.
+
+5. VERIFICANDO USERNAME DUPLICADOS EN USERS (Control de Unicidad)...
+[OK] Usernames únicos.
+      SELECT cedula, organizacion_id, GROUP_CONCAT(DISTINCT user_id) as leaders, COUNT(DISTINCT user_id) as c 
+        FROM registros 
+        WHERE cedula IS NOT NULL AND cedula != '' 
+        GROUP BY cedula, organizacion_id 
+        HAVING c > 1
+    ");
+    $dupLeaders = $stmt->fetchAll();
+    if (count($dupLeaders) > 0) {
+        echo "[ALERTA] Votantes asignados a múltiples líderes en la misma organización:\n";
+        foreach ($dupLeaders as $d) {
+            echo " - Cédula " . $d['cedula'] . " (Org " . $d['organizacion_id'] . ") -> Leaders IDs: [" . $d['leaders'] . "]\n";
+        }
+    }
+    else {
+        echo "[OK] Cada votante tiene un único líder por organización.\n";
+    }
+    echo "\n";
+
+    // 7. Check for LEADERS (Users) with same Name in multiple organizations
+    echo "7. VERIFICANDO LÍDERES (USERS) DUPLICADOS POR NOMBRE EN DIFERENTES ORGS...\n";
+    // Note: Name might not be unique naturally, but checking might reveal issues.
+    $stmt = $pdo->query("
+        SELECT name, GROUP_CONCAT(DISTINCT organizacion_id) as orgs, COUNT(DISTINCT organizacion_id) as c 
+        FROM users 
+        WHERE name IS NOT NULL AND name != '' AND name != 'Administrador Principal'
+        GROUP BY name 
+        HAVING c > 1
+    ");
+    $dupUserNames = $stmt->fetchAll();
+    if (count($dupUserNames) > 0) {
+        echo "[ALERTA] Usuarios con el mismo NOMBRE en diferentes organizaciones (Posible violación):\n";
+        foreach ($dupUserNames as $u) {
+            echo " - " . $u['name'] . " -> Orgs: [" . $u['orgs'] . "]\n";
+        }
+    }
+    else {
+        echo "[OK] Nombres de usuarios únicos entre organizaciones.\n";
+    }
+    echo "\n";
+
+    // 8. Check for LEADERS (Registros) with same Name/Phone in multiple organizations
+    echo "8. VERIFICANDO LÍDERES (REGISTROS) DUPLICADOS POR NOMBRE/CELULAR EN DIFERENTES ORGS...\n";
+    $stmt = $pdo->query("
+        SELECT nombres_apellidos, GROUP_CONCAT(DISTINCT organizacion_id) as orgs, COUNT(DISTINCT organizacion_id) as c 
+        FROM registros 
+        WHERE tipo='lider' AND nombres_apellidos IS NOT NULL
+        GROUP BY nombres_apellidos 
+        HAVING c > 1
+    ");
+    $dupRegNames = $stmt->fetchAll();
+    if (count($dupRegNames) > 0) {
+        echo "[ALERTA] Líderes (Registros) con mismo NOMBRE en diferentes organizaciones:\n";
+        foreach ($dupRegNames as $r) {
+            echo " - " . $r['nombres_apellidos'] . " -> Orgs: [" . $r['orgs'] . "]\n";
+        }
+    }
+    else {
+        echo "[OK] Nombres de líderes (registros) únicos entre organizaciones.\n";
+    }
+
+}
+catch (PDOException $e) {
+    echo "ERROR DE BASE DE DATOS: " . $e->getMessage();
+}
+?>

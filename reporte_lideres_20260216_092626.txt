@@ -1,0 +1,171 @@
+╔══════════════════════════════════════════════════════════════════╗
+║     REPORTE FINAL - VERIFICACIÓN DE CREDENCIALES DE LÍDERES     ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Fecha: 2026-02-16 09:26:27
+Base de datos: politica
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    RESUMEN GENERAL                               ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Total de líderes registrados: 11
+
+Líderes por organización:
+  • Organización 1: 2 líder(es)
+  • Organización 2: 4 líder(es)
+  • Organización 3: 2 líder(es)
+  • Organización 4: 3 líder(es)
+
+╔══════════════════════════════════════════════════════════════════╗
+║              DETALLE DE LÍDERES POR ORGANIZACIÓN                 ║
+╚══════════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────────┐
+│ ORGANIZACIÓN: Organización 1                                │
+└─────────────────────────────────────────────────────────────────┘
+
+  Líder ID: 3
+  ├─ Nombre: Ana Diaz
+  ├─ Cédula: 100001001
+  ├─ Usuario: 100001001
+  ├─ Contraseña: 100001001 ✓
+  ├─ Celular: 3000000000
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+  Líder ID: 4
+  ├─ Nombre: Sofia Rodriguez
+  ├─ Cédula: 100001002
+  ├─ Usuario: 100001002
+  ├─ Contraseña: 100001002 ✓
+  ├─ Celular: 3000000000
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+┌─────────────────────────────────────────────────────────────────┐
+│ ORGANIZACIÓN: Organización 2                                │
+└─────────────────────────────────────────────────────────────────┘
+
+  Líder ID: 6
+  ├─ Nombre: Ana Gonzalez
+  ├─ Cédula: 100002001
+  ├─ Usuario: 100002001
+  ├─ Contraseña: 100002001 ✓
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+  Líder ID: 7
+  ├─ Nombre: Ana Diaz
+  ├─ Cédula: 100002002
+  ├─ Usuario: 100002002
+  ├─ Contraseña: 100002002 ✓
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+  Líder ID: 17
+  ├─ Nombre: Daniel
+  ├─ Cédula: 1007494559
+  ├─ Usuario: 1007494559
+  ├─ Contraseña: 1007494559 ✓
+  ├─ Celular: 3184483187
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+  Líder ID: 12
+  ├─ Nombre: Daniel
+  ├─ Cédula: 213123
+  ├─ Usuario: 213123
+  ├─ Contraseña: 213123 ✓
+  ├─ Celular: 3162573607
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+┌─────────────────────────────────────────────────────────────────┐
+│ ORGANIZACIÓN: Organización 3                                │
+└─────────────────────────────────────────────────────────────────┘
+
+  Líder ID: 9
+  ├─ Nombre: Elena Torres
+  ├─ Cédula: 100003001
+  ├─ Usuario: 100003001
+  ├─ Contraseña: 100003001 ✓
+  ├─ Celular: 3000000000
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+  Líder ID: 10
+  ├─ Nombre: Carlos Torres
+  ├─ Cédula: 100003002
+  ├─ Usuario: 100003002
+  ├─ Contraseña: 100003002 ✓
+  ├─ Celular: 3000000000
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+┌─────────────────────────────────────────────────────────────────┐
+│ ORGANIZACIÓN: Organización 4                                │
+└─────────────────────────────────────────────────────────────────┘
+
+  Líder ID: 16
+  ├─ Nombre: Daniel Andres
+  ├─ Cédula: 10074945599
+  ├─ Usuario: 10074945599
+  ├─ Contraseña: 10074945599 ✓
+  ├─ Celular: 3184483187
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+  Líder ID: 14
+  ├─ Nombre: asdasd
+  ├─ Cédula: 1231325
+  ├─ Usuario: 1231325
+  ├─ Contraseña: 1231325 ✓
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+  Líder ID: 15
+  ├─ Nombre: LUIS FERNANDO PEINADO DOMINGUEZ - CASILOCO
+  ├─ Cédula: 92153750
+  ├─ Usuario: 92153750
+  ├─ Contraseña: 92153750 ✓
+  ├─ Celular: 3042058585
+  └─ Estado: ✓ CREDENCIALES CORRECTAS
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    TABLA RESUMEN                                 ║
+╚══════════════════════════════════════════════════════════════════╝
+
+ID    | CÉDULA         | NOMBRE                              | ESTADO
+────────────────────────────────────────────────────────────────────────────────
+3     | 100001001       | Ana Diaz                            | ✓ OK
+4     | 100001002       | Sofia Rodriguez                     | ✓ OK
+6     | 100002001       | Ana Gonzalez                        | ✓ OK
+7     | 100002002       | Ana Diaz                            | ✓ OK
+17    | 1007494559      | Daniel                              | ✓ OK
+12    | 213123          | Daniel                              | ✓ OK
+9     | 100003001       | Elena Torres                        | ✓ OK
+10    | 100003002       | Carlos Torres                       | ✓ OK
+16    | 10074945599     | Daniel Andres                       | ✓ OK
+14    | 1231325         | asdasd                              | ✓ OK
+15    | 92153750        | LUIS FERNANDO PEINADO DOMINGUEZ - C | ✓ OK
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    VERIFICACIÓN TÉCNICA                          ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Criterios verificados:
+  ✓ Cada líder tiene un usuario en la tabla 'users'
+  ✓ Cada líder tiene un registro en la tabla 'registros'
+  ✓ El campo 'username' es igual a la cédula del líder
+  ✓ El campo 'password' es el hash de la cédula del líder
+  ✓ El rol del usuario es 'lider'
+  ✓ El tipo del registro es 'lider'
+
+Métodos de acceso:
+  Usuario: [Número de cédula]
+  Contraseña: [Número de cédula]
+
+╔══════════════════════════════════════════════════════════════════╗
+║                    RESULTADO FINAL                               ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  🎉 ¡VERIFICACIÓN EXITOSA!
+
+  Todos los 11 líderes tienen credenciales correctas.
+  Cada líder puede acceder usando su número de cédula como
+  usuario y contraseña.
+
+══════════════════════════════════════════════════════════════════
+Reporte generado: 2026-02-16 09:26:28
+══════════════════════════════════════════════════════════════════

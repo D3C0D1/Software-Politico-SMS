@@ -1,0 +1,21 @@
+id,setting_key,setting_value,organizacion_id
+1,app_title,"Partido Liberal",1
+2,logo_path,assets/img/uploads/logo_1770737325.svg,1
+3,profile_path,assets/img/uploads/liberal_1770737091.png,1
+4,primary_color,#0056d6,1
+5,app_title,Conservador,2
+6,logo_path,assets/img/logo.png,2
+7,profile_path,assets/img/liberal.png,2
+8,primary_color,#E30613,2
+9,app_title,"Hector Olimpo",3
+10,logo_path,assets/img/placeholder_logo.png,3
+11,profile_path,assets/img/placeholder_profile.png,3
+12,primary_color,#333333,3
+13,app_title,holmar,4
+14,logo_path,assets/img/uploads/logo_1770775589_670.png,4
+15,profile_path,assets/img/uploads/profile_1770775589_702.png,4
+16,primary_color,#000000,4
+17,app_title,mono,5
+18,logo_path,assets/img/placeholder_logo.png,5
+19,profile_path,assets/img/placeholder_profile.png,5
+20,primary_color,#d58400,5
